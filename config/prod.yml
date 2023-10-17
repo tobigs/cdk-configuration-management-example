@@ -1,0 +1,6 @@
+# alternative to storing in cdk context
+# requires adjustment of build-config.ts
+prod:
+  region: us-east-2
+  ec2Name: my-prod-server
+  ec2InstanceLogicalId: myprodserverAF952D80

@@ -1,0 +1,6 @@
+# Alternative to storing in cdk context
+# requires adjustment of build-config.ts
+dev:
+  region: us-east-1
+  ec2Name: my-dev-server
+  ec2InstanceLogicalId: mydevserverDD2D3EA4
